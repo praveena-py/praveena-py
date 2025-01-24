@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @praveena-py
-- 👀 I’m interested in ...crating open source software
+- 👋 Hi, I’m Praveena.
+- 👀 I’m interested in ...creating open source software
 - 🌱 I’m currently learning ... Java, Data strutures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
